@@ -36,8 +36,8 @@ A mobile application developed using Flutter that allows users to browse and pur
 Book_Store_App/
 ├── android/
 ├── assets/
-│   ├── images/
-│   └── ...
+│   ├── authors/
+│   └── books/
 ├── ios/
 ├── lib/
 │   ├── models/
