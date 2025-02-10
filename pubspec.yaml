@@ -1,0 +1,42 @@
+name: bookstore
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets\books\Tress_of_the_Emerald_Sea.jpeg
+    - assets\authors\Brandon_Sanderson.jpeg
+
+    - assets\books\The_Chronicles_of_Narnia.jpeg
+    - assets\authors\CS_Lewis.jpeg
+
+    - assets\books\Red Rising.jpeg
+    - assets\authors\Pierce Brown.jpeg
+
+    - assets\books\The Spellshop.jpeg
+    - assets\authors\Sarah Beth Durst.jpeg
+
+    - assets\books\Iron Gold.jpeg
+    - assets\authors\Pierce Brown.jpeg
+
+    - assets\books\The Two Towers.jpeg
+    - assets\authors\J.R.R. Tolkien.jpeg
+
+    - assets\books\All the Light We Cannot See.jpg
+    - assets\authors\anthony_doerr.jpg
