@@ -83,5 +83,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact [Raveen JK](mailto:raveenjk@example.com).
+For any inquiries or feedback, please contact [Raveen JK](mailto:raveenmadhawa48@gmail.com).
+
 
